@@ -1,0 +1,21 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* Heading styles */
+  h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+    transition: color 0.3s ease;
+  }
+  p {
+    color: #777;
+    font-size: 16px;
+    line-height: 1.5;
+    transition: color 0.3s ease;
+  }
